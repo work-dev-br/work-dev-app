@@ -1,0 +1,53 @@
+
+.Navbar {
+    width: 100%;
+    min-height: 20vmin;
+    display: flex;
+    flex-direction: row;
+}
+
+.Box-Icon {
+    min-width: 20vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Icon-Style {
+    width: 18vmin;
+}
+
+.Box-Title {
+    background-color: #FFFFFF;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Box-Title-Name {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.Title-Work {
+    font-family: 'Merriweather', serif;
+    font-size: calc(10vmin);
+    color: #ce4257;
+}
+
+.Title-Dev {
+    font-size: calc(16vmin);
+    font-family: 'Oswald', sans-serif;
+    color: #ff7f51;
+    margin-top: -3vmin;
+    margin-bottom: -4vmin;
+}
+
+.Box-Title-By {
+    font-size: calc(3vmin);
+    font-weight: bold;
+}

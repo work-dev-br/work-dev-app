@@ -1,0 +1,10 @@
+
+.MenuButton {
+    background-color: #f48c06;
+    width: 16vmin;
+    height: 16vmin;
+    position: fixed;
+    right: 5vmin;
+    bottom: 5vmin;
+    border-radius: 8vmin;
+}

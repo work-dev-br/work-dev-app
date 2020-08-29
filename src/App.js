@@ -1,16 +1,22 @@
 import React from 'react';
 import './App.css';
 
+import Navbar from './main/Navbar'
+import Content from './main/Content'
+import MenuButton from './main/MenuButton'
+
 function App() {
-  return (
-    <div className="App">
-        <p>
-          Site <code>work.dev.br</code> em construção by nivaldohydalgo.
-        </p>
-        <p>Branch develop</p>
-        <p>Work in develop branch</p>
-    </div>
-  );
+    return (
+        <div className="App">
+
+            <Navbar /> 
+
+            <Content />       
+
+            <MenuButton />
+
+        </div>
+    );
 }
 
 export default App;
