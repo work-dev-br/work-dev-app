@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57af3eda366224e3efe719549fc7f8dc",
+    "revision": "0a4b28473f5e8657f908ae19e8b970e7",
     "url": "/work-dev-app/index.html"
   },
   {
-    "revision": "d1800ba3febdbaa930af",
+    "revision": "f3393fc6afaaaff576b3",
     "url": "/work-dev-app/static/css/main.e5b931c0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/work-dev-app/static/js/2.0f92f202.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d1800ba3febdbaa930af",
-    "url": "/work-dev-app/static/js/main.3f7bec86.chunk.js"
+    "revision": "f3393fc6afaaaff576b3",
+    "url": "/work-dev-app/static/js/main.6e26b890.chunk.js"
   },
   {
     "revision": "06a7f4526796b1fa7742",
