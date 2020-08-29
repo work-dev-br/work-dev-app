@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/work-dev-app/static/css/main.e5b931c0.chunk.css",
-    "main.js": "/work-dev-app/static/js/main.a771d114.chunk.js",
-    "main.js.map": "/work-dev-app/static/js/main.a771d114.chunk.js.map",
+    "main.js": "/work-dev-app/static/js/main.3f7bec86.chunk.js",
+    "main.js.map": "/work-dev-app/static/js/main.3f7bec86.chunk.js.map",
     "runtime-main.js": "/work-dev-app/static/js/runtime-main.0a33e7a2.js",
     "runtime-main.js.map": "/work-dev-app/static/js/runtime-main.0a33e7a2.js.map",
     "static/js/2.0f92f202.chunk.js": "/work-dev-app/static/js/2.0f92f202.chunk.js",
     "static/js/2.0f92f202.chunk.js.map": "/work-dev-app/static/js/2.0f92f202.chunk.js.map",
     "index.html": "/work-dev-app/index.html",
-    "precache-manifest.29fda999af057eb436d0a3efb9c0ead0.js": "/work-dev-app/precache-manifest.29fda999af057eb436d0a3efb9c0ead0.js",
+    "precache-manifest.5450687baf0fd6254ccb8847c17fd278.js": "/work-dev-app/precache-manifest.5450687baf0fd6254ccb8847c17fd278.js",
     "service-worker.js": "/work-dev-app/service-worker.js",
     "static/css/main.e5b931c0.chunk.css.map": "/work-dev-app/static/css/main.e5b931c0.chunk.css.map",
     "static/js/2.0f92f202.chunk.js.LICENSE.txt": "/work-dev-app/static/js/2.0f92f202.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0a33e7a2.js",
     "static/js/2.0f92f202.chunk.js",
     "static/css/main.e5b931c0.chunk.css",
-    "static/js/main.a771d114.chunk.js"
+    "static/js/main.3f7bec86.chunk.js"
   ]
 }
